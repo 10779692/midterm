@@ -1,0 +1,32 @@
+body {
+    padding: 30px;
+    background-color: #f3f3f3;
+}
+#wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+p.searchResults span {
+    color: red;
+    font-weight: bold;
+}
+
+
+form {
+    max-width: 700px;
+}
+form label {
+    color: #2f3e59;
+}
+h1 {
+    text-align: left;
+    font-size: 30px;
+    margin-bottom: 15px;
+    color: #2f3e59;
+}
+
+.btn-primary {
+    background-color: #2f3e59;
+    border: none;
+}
