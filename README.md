@@ -6,4 +6,4 @@ My two main problems:
 
 1.) I cannot seem to figure out how to make that happen. Already in MySQL, I have the "photo" column set as "longblob" so I believe I have set that part up right. 
 
-2.) At the moment, the editemployee.php file is set to manually edit the employee with the column id #2. That currently is Alexander Hamiliton. Ideally, I would like to enter a name in the form and edit their contens from there. 
+2.) At the moment, the editemployee.php file is set to manually edit the employee with the column id #2. That currently is Alexander Hamiliton. Ideally, I would like to enter a name in the form and edit their contents from there. 
